@@ -8,5 +8,7 @@
 ### 4-VGG
 
 ### Transfer learning is used to develop machine learning models. Confusion Matrix is used to measure accuracy and performance.
+### PyQt5 used to develop GUI interface
+
 
  
